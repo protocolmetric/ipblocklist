@@ -1,5 +1,5 @@
 # Custom Blocklist
-# Last update: Tue, 24 Feb 2026 20:00:28 -08:00
+# Last update: Tue, 24 Feb 2026 20:00:40 -08:00
 101.36.107.73
 104.152.187.62
 104.224.28.251
